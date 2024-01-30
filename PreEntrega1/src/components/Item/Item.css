@@ -1,0 +1,37 @@
+.CardItem{
+    background-color: darkblue;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 30px 0 30px;
+    float: right;
+    margin-top: 50px;
+}
+
+.Header .ItemHeader{
+    color: #fff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+picture img{
+    height: 200px;
+    border-radius: 10px;
+}
+
+.Info{
+    color: #fff;
+    margin-top: 20px;
+}
+
+.Option{
+    border: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 50px;
+    color: darkblue;
+    background-color: aqua;
+}
